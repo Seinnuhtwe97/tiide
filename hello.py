@@ -6,6 +6,6 @@ app = Flask(__name__)
 def hello():
     return "Hello World"
 
-@app.route("/pyae")
+@app.route("/sein")
 def sein():
     return "Hello Sein Nu Htwe"
